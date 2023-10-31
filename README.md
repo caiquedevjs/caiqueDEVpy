@@ -24,6 +24,7 @@ skills em:
 • Node.js 
 
 • Boostrap.
+
 Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor web full stack.
 
 
