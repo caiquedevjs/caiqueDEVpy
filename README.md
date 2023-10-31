@@ -2,7 +2,7 @@
 • Estudante de Computação pela Universidade Federal da Bahia.
 
 
-• Estudante de Analíse e Desenvolvimento de sistemas pela Universidade Salvador.
+• Estudante de Análise e Desenvolvimento de sistemas pela Universidade Salvador.
 
 
 • Desenvolvedor front end.
