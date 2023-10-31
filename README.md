@@ -1,5 +1,11 @@
-## aspiring front end developer 🎮 🚀 📚
-#### Me chamo Caique Menezes, sou desenvolvedor front end, estudante de Computação na Universidade Federal da Bahia e estudante de Análise e desenvolvimento de sistemas pela Universidade Salvador. Apaixonado por tecnologia e desenvolvimento, dedico diariamente aos estudos na área de desenvolvimento web, minha jornada como dev só está começando e estou sempre disposto a aprender coisas novas e expandir minhas potencialidades ao máximo.
+# aspiring front end developer 🎮 🚀 📚
+• Estudante de Computação pela Universidade Federal da Bahia.
+• Estudante de Analíse e Desenvolvimento de sistemas pela Universidade Salvador.
+• Desenvolvedor front end.
+Atulamente deidico meus estudos para o front end, onde venho aprimorando minhas 
+skills em Html,Css, Javascript, Typescript, React.js, Node.js e Boostrap.
+Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor web full stack.
+
 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
