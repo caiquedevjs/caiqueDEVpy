@@ -1,4 +1,4 @@
-# my journey! 💻 🎮 🚀 📚
+## aspiring front end developer 🎮 🚀 📚
 #### Me chamo Caique Menezes, sou desenvolvedor front end, estudante de Computação na Universidade Federal da Bahia e estudante de Análise e desenvolvimento de sistemas pela Universidade Salvador. Apaixonado por tecnologia e desenvolvimento, dedico diariamente aos estudos na área de desenvolvimento web, minha jornada como dev só está começando e estou sempre disposto a aprender coisas novas e expandir minhas potencialidades ao máximo.
 
 
