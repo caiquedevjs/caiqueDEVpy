@@ -9,7 +9,20 @@
 
 
 Atulamente deidico meus estudos para o front end, onde venho aprimorando minhas 
-skills em Html,Css, Javascript, Typescript, React.js, Node.js e Boostrap.
+skills em:
+• Html
+
+• Css
+
+• Javascript
+
+• Typescript
+
+• React.js
+
+• Node.js 
+
+• Boostrap.
 Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor web full stack.
 
 
