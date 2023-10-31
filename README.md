@@ -23,7 +23,7 @@ skills em:
 
 • Node.js 
 
-• Bootsrap.
+• Bootstrap.
 
 Dedicando cada momento aos estudos, afim de me tornar um dia, um desenvolvedor web full stack.
 
