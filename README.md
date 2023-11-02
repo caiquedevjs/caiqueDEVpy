@@ -8,7 +8,7 @@
 • Desenvolvedor front end.
 
 
-Atulamente deidico meus estudos para o front end, onde venho aprimorando minhas 
+Atualmente dedico meus estudos para o front end, onde venho aprimorando minhas 
 skills em:
 
 • Html
